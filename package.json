@@ -1,0 +1,19 @@
+{
+  "name": "dkbs-first-node-package",
+  "version": "0.0.0",
+  "description": "My very first package - from a Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekcaiki/dkbs-first-node-package.git"
+  },
+  "author": "Daryl Bryant (tmp10dkbe@hotmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekcaiki/dkbs-first-node-package/issues"
+  },
+  "homepage": "https://github.com/ekcaiki/dkbs-first-node-package#readme"
+}
