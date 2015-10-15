@@ -1,6 +1,6 @@
 {
   "name": "dkbs-first-node-package",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "My very first package - from a Tutorial",
   "main": "index.js",
   "scripts": {
